@@ -43,6 +43,8 @@
 > 🌍 More at: [My Projects](https://github.com/mallik-hussain?tab=repositories)
 
 ---
+![GitHub followers](https://img.shields.io/github/followers/mallik-hussain?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/mallik-hussain?style=social)
 
 ### 📈 GitHub Stats
 
