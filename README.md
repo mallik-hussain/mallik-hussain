@@ -64,8 +64,8 @@
 ### 📍 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
+  <a href="mailto:vikky3549@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
@@ -73,5 +73,5 @@
 
 <!-- Last updated -->
 <p align="right">
-  <i>Last updated on July 2025</i> 🕒
+  <i>Last updated on May 2025</i> 🕒
 </p>
