@@ -1,7 +1,7 @@
 # mallikhussain1
 <!-- Mallik Hussain GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Mallik Hussain</h1>
+<h1 align="center">Hi 👋, I'm Krishna vamsi</h1>
 <h3 align="center">Engineer | Problem Solver | Tech Explorer 🚀</h3>
 
 <p align="center">
