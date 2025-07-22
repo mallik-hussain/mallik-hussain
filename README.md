@@ -37,9 +37,9 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [InvoiceAI](#) | Extracts data from invoices using OCR + NLP | Python, Flask, OpenCV |
-| [Fincept](https://product.fincept.in/) | Connects developers across tech stacks | React, Node.js, MongoDB |
+| [Fincept](https://product.fincept.in/) | Financial terminal for markets | React, Node.js, MongoDB |
 | [Smart Portfolio](#) | Auto-tracks your GitHub & updates portfolio | Next.js, GraphQL, Vercel |
-| [Fincrypt](https://github.com/aditiisinha/DeFi-Lending)- Decentarlised financial lending platform (Tech used: Javascript, Metamask, MongoDB)
+| [Fincrypt](https://github.com/aditiisinha/DeFi-Lending) | Decentralised finanicial lending platform (Tech used: Javascript, Metamask, MongoDB)
 > 🌍 More at: [My Projects](https://github.com/mallik-hussain?tab=repositories)
 
 ---
