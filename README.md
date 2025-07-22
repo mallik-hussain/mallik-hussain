@@ -1,7 +1,7 @@
 # mallikhussain1
 <!-- Mallik Hussain GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Krishna vamsi</h1>
+<h1 align="center">Hi 👋, I'm Krishna Vamsi</h1>
 <h3 align="center">Engineer | Problem Solver | Tech Explorer 🚀</h3>
 
 <p align="center">
@@ -12,10 +12,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: **AI tools, cloud-native apps & full-stack projects**
-- 🌱 Exploring: **Kubernetes | Prompt Engineering | Quantum Computing**
+- 🔭 Currently building: **AI tools, cloud-native apps & full-stack projects**
+- 🌱 Exploring: `Kubernetes`, `Prompt Engineering`, `Quantum Computing`
 - 💬 Ask me about: `Python`, `JavaScript`, `APIs`, `DevOps`, `Clean Architecture`
-- 📫 Reach out: [Vikky3549@gmail.com] |  [Portfolio](https://vikky3549.wixsite.com/my-site-1)
+- 📫 Reach me: [📧 Email](mailto:Vikky3549@gmail.com) | [🌐 Portfolio](https://vikky3549.wixsite.com/my-site-1)
 - ⚡ Fun fact: I break things just to rebuild them better 😄
 
 ---
@@ -39,13 +39,48 @@
 | [InvoiceAI](#) | Extracts data from invoices using OCR + NLP | Python, Flask, OpenCV |
 | [Fincept](https://product.fincept.in/) | Financial terminal for markets | React, Node.js, MongoDB |
 | [Smart Portfolio](#) | Auto-tracks your GitHub & updates portfolio | Next.js, GraphQL, Vercel |
-| [Fincrypt](https://github.com/aditiisinha/DeFi-Lending) | Decentralised finanicial lending platform (Tech used: Javascript, Metamask, MongoDB)
-> 🌍 More at: [My Projects](https://github.com/mallik-hussain?tab=repositories)
+| [Fincrypt](https://github.com/aditiisinha/DeFi-Lending) | DeFi lending platform with Web3 | JS, Metamask, MongoDB |
+
+🌍 More projects at: [My Repositories](https://github.com/mallik-hussain?tab=repositories)
 
 ---
-![GitHub followers](https://img.shields.io/github/followers/mallik-hussain?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/mallik-hussain?style=social)
 
+### 🧠 Currently Learning
+
+- 🔧 WordPress Plugin Dev for contributing to open-source (👀 rtCamp)
+- 📦 GitHub Actions for CI/CD automation
+- 🎓 System Design and API scaling patterns
+- 🔐 Web3 wallet integration + smart contract basics
+
+---
+
+### 💼 Skills Aligned with rtCamp
+
+- ✅ PHP + JavaScript + WordPress theme/plugin development
+- ✅ Git, GitHub, GitFlow, and open-source contributions
+- ✅ DevOps basics (Docker, AWS EC2/S3, deployment)
+- ✅ Writing clear, maintainable code & documentation
+- ✅ Self-starter with experience in end-to-end projects
+
+---
+
+### ⚙️ Dev Commands I Use
+
+```bash
+# Start a PHP server for WP plugin testing
+php -S localhost:8000
+
+# Git workflow
+git checkout -b feature/new-ui
+git add .
+git commit -m "✨ Add new responsive UI"
+git push origin feature/new-ui
+
+# Format JS/HTML code
+prettier --write .
+
+# Deploy static project
+npm run build && netlify deploy
 ### 📈 GitHub Stats
 
 <p align="center">
