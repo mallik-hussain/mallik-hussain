@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on: **AI tools, cloud-native apps & full-stack projects**
 - 🌱 Exploring: **Kubernetes | Prompt Engineering | Quantum Computing**
 - 💬 Ask me about: `Python`, `JavaScript`, `APIs`, `DevOps`, `Clean Architecture`
-- 📫 Reach out: [Your Email] | [LinkedIn](#) | [Portfolio](#)
+- 📫 Reach out: [Vikky3549@gmail.com] |  [Portfolio](https://vikky3549.wixsite.com/my-site-1)
 - ⚡ Fun fact: I break things just to rebuild them better 😄
 
 ---
