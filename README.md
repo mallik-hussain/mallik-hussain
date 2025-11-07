@@ -7,10 +7,10 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science Graduate with a deep interest in **product engineering**
-- 🛠 Focused on **Full Stack Development**, **DevOps**, and **AI Tools**
+- 🛠 Focused on **Cyber security**, **Quant**, and **AI Tools**
 - ☁️ Passionate about building scalable, cloud-native systems
 - 📫 Reach me: [vikky3549@gmail.com](mailto:vikky3549@gmail.com)
-- 🌐 Portfolio: [View My Work](https://vikky3549.wixsite.com/my-site-1)
+- 🌐 Portfolio: [View My Work]((https://vikky3549.wixsite.com/my-site-1))
 
 ---
 
